@@ -41,11 +41,11 @@ The government aims to inspire citizens by demonstrating the total energy saved 
 <h4>Installation<h4>
 1. Clone this repository:<br>
      bash<br>
-   git clone <repository_url><br>
-   cd <repository_folder><br>
+     git clone repository_url<br>
+     cd repository_name<br>
 2. Install dependencies:<br>
      bash<br>
-   pip install -r requirements.txt<br>
+     pip install -r requirements.txt<br>
 3. Run the Jupyter Notebook to explore the data and visualizations.<br>
 
 <h4>Usage<h4>
