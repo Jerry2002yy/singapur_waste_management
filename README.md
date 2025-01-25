@@ -5,11 +5,11 @@ Singapore is on a mission to become a zero-waste nation, as the government is in
 
 The government aims to inspire citizens by demonstrating the total energy saved through recycling efforts each year. This project analyzes Singapore's recycling statistics from 2003 to 2020 and calculates energy saved for five waste types:
 
-● Plastics
-● Paper
-● Glass
-● Ferrous Metals
-● Non-Ferrous Metals
+● Plastics<br>
+● Paper<br>
+● Glass<br>
+● Ferrous Metals<br>
+● Non-Ferrous Metals<br>
 
 <h5>Data Overview</h5>
 
@@ -24,42 +24,42 @@ The government aims to inspire citizens by demonstrating the total energy saved 
 > 1 barrel of oil ≈ 159 liters
 
 <h5>Features<h5>
-● Calculation of yearly energy saved and crude oil conserved through recycling efforts.
-● Visualization of trends in waste management and recycling rates from 2003 to 2020.
-● Energy statistics presented for better understanding of environmental impact.
+● Calculation of yearly energy saved and crude oil conserved through recycling efforts.<br>
+● Visualization of trends in waste management and recycling rates from 2003 to 2020.<br>
+● Energy statistics presented for better understanding of environmental impact.<br>
 
 <h5>Technologies Used<h5>
-● Python: Programming language for data analysis and processing.
-● Pandas: Library for data manipulation and cleaning.
-● Plotly: Libraries for creating interactive visualizations.
+● Python: Programming language for data analysis and processing.<br>
+● Pandas: Library for data manipulation and cleaning.<br>
+● Plotly: Libraries for creating interactive visualizations.<br>
 
 <h5>Datasets<h5>
-1. waste_energy_stat.csv: Contains energy and crude oil saved for each waste type per metric tonne.
-2. 2003_2017_waste.csv: Waste management data from 2003 to 2017.
-3. 2018_2020_waste.csv: Waste management data from 2018 to 2020.
+1. waste_energy_stat.csv: Contains energy and crude oil saved for each waste type per metric tonne.<br>
+2. 2003_2017_waste.csv: Waste management data from 2003 to 2017.<br>
+3. 2018_2020_waste.csv: Waste management data from 2018 to 2020.<br>
 
 <h5>Installation<h5>
 1. Clone this repository:
    ```bash
    git clone <repository_url>
-   cd <repository_folder>
+   cd <repository_folder><br>
    ```
 2. Install dependencies:
    ```bash
-   pip install -r requirements.txt
-3. Run the Jupyter Notebook to explore the data and visualizations.
+   pip install -r requirements.txt<br>
+3. Run the Jupyter Notebook to explore the data and visualizations.<br>
 
 <h5>Usage<h5>
-1. Ensure the datasets (waste_energy_stat.csv, 2003_2017_waste.csv, and 2018_2020_waste.csv) are in the project directory.
-2. Open the Jupyter Notebook (singapore_energy.ipynb).
-3. Run all cells to calculate yearly energy savings and explore the visualizations.
+1. Ensure the datasets (waste_energy_stat.csv, 2003_2017_waste.csv, and 2018_2020_waste.csv) are in the project directory.<br>
+2. Open the Jupyter Notebook (singapore_energy.ipynb).<br>
+3. Run all cells to calculate yearly energy savings and explore the visualizations.<br>
 
 <h5>Visualizations<h5>
-The project includes the following interactive visualizations:
+The project includes the following interactive visualizations:<br>
 
-● Bar Charts: Showcasing energy savings per waste type across the years.
-● Line Graphs: Highlighting trends in recycling rates.
-● Stacked Charts: Comparing the contribution of different waste types to energy savings.
+● Bar Charts: Showcasing energy savings per waste type across the years.<br>
+● Line Graphs: Highlighting trends in recycling rates.<br>
+● Stacked Charts: Comparing the contribution of different waste types to energy savings.<br>
 
 
 <h5>Contributing<h5>
