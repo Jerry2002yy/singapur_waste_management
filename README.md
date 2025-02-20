@@ -38,21 +38,15 @@ The government aims to inspire citizens by demonstrating the total energy saved 
 2. 2003_2017_waste.csv: Waste management data from 2003 to 2017.<br>
 3. 2018_2020_waste.csv: Waste management data from 2018 to 2020.<br>
 
-<h4>Installation</h4>
-
-<ol>
-    <li>Clone this repository:<br><br>
-        <pre><code>git clone repository_url
-cd repository_name</code></pre>
-    </li>
-
-    <li>Install dependencies:<br><br>
-        <pre><code>pip install -r requirements.txt</code></pre>
-    </li>
-
-    <li>Run the Jupyter Notebook to explore the data and visualizations.</li>
-</ol>
-g
+<h4>Installation<h4>
+1. Clone this repository:<br>
+     bash<br>
+     git clone repository_url<br>
+     cd repository_name<br>
+2. Install dependencies:<br>
+     bash<br>
+     pip install -r requirements.txt<br>
+3. Run the Jupyter Notebook to explore the data and visualizations.<br>
 
 <h4>Usage<h4>
 1. Ensure the datasets (waste_energy_stat.csv, 2003_2017_waste.csv, and 2018_2020_waste.csv) are in the project directory.<br>
